@@ -1,6 +1,6 @@
 # Numix Light
 Colorscheme for [Numix Light Theme](https://github.com/ikenfin/Sublime-Numix-light-theme).
-Based on iPlastic by Jeroen van der Ham.
+Based on [iPlastic](http://colorsublime.com/theme/iPlastic) by Jeroen van der Ham.
 
 ## Installation
 
